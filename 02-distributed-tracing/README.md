@@ -38,9 +38,9 @@ Supporting components:
   - At least **4 CPUs** and **8 GB RAM** are recommended.
 - Ensure that you have built these docker images.
 ```
-vinsguru/movie-service
-vinsguru/actor-service
-vinsguru/review-service
+codeguru/movie-service
+codeguru/actor-service
+codeguru/review-service
 ```
 ## Demo
 

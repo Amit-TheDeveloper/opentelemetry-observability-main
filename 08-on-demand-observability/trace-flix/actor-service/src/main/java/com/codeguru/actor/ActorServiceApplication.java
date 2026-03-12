@@ -1,6 +1,6 @@
-package com.vinsguru.actor;
+package com.codeguru.actor;
 
-import com.vinsguru.observability.EnableOnDemandObservability;
+import com.codeguru.observability.EnableOnDemandObservability;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
