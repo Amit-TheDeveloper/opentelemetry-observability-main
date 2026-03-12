@@ -1,5 +1,4 @@
 # otel collector configuration example: https://opentelemetry.io/docs/collector/configuration/
-
 receivers:
   otlp:
     protocols:
